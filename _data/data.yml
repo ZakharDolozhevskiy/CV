@@ -1,0 +1,153 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Zakhar Dolozhevskiy
+    tagline: Full-stack Software Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: dolozhevskiy@gmail.com
+    phone: +380990785467
+    # website: bbrattoli.github.io/publications/ #do not add http://
+    linkedin: zakhardolozhevskiy
+    github: ZakharDolozhevskiy
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars: Nearh
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Fluent
+
+      - idiom: Ukrainian
+        level: Native
+
+      - idiom: Russian
+        level: Fluent
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I started work as Software engineer in 2014. Have professional experience in front-end and back-end development.
+      Also have solid knowledge of the most popular front-end frameworks and tools, familiar with Node.js and related framework like Express and Koa.
+      I've got strong background in software design and architecture, worked on team and tech leader role with team of 4-5 engineers and have good understanding of agile methodologies and software development processes.
+      I Like competitive programming and have good algorithms and data structure understanding.
+
+
+educationcomplete:
+    - degree: AWS Certified Solutions Architect - Associate (SAA)
+      university: Amazon Web Services (AWS)
+      time: 2019
+      details: |
+        Issue Date: November 2019<br/>
+        Expiration Date: November 2020<br/>
+        Credential ID: GVNB1PGKFFBQQM9E
+
+    - degree: Master's degree in tourism and travel services management
+      university: O.M.Beketov NUUE
+      time: 2008 - 2013
+      details: |
+experiences:
+    - role: Technical Leader
+      time: Feb 2019 - Present
+      company: SoftServe, Kharkiv Region, Ukraine
+      details: |
+        I've worked with two well-known companies during my employment. On both projects,
+        I've been involved as a team leader to organize the work process and support agile methodologies flow
+        <br/>
+        <br/>
+        Each team was of 4-5 front-end or full-stack developers and as a tech leader, I provided code review, mentoring,
+        support, and help with problem-solving ( development and communication ).
+        <br/>  I also was involved in building POCs and writing documentation or RFCs of proposed solutions.
+        During my work, I met customers for work scope negotiation processes and took part in pre-sales.
+
+    - role: Software Engineer
+      time: Sep 2018 - Jan 2019
+      company: Microsoft, Tallinn, Estonia
+      details: |
+        Worked in web media core team with the main focus on the web calling experience. Implemented reliable and
+        cross-platform solutions for video conferences, screen sharing, media streams transferring and also covered
+        integration part with other libraries and applications. My personal area of expertise and responsibility was
+        calls reliability and telemetry gathering ( stats of calls, experiments, other valuable data ).
+        We've used TypeScript, Python, ML, AI, WebRTC and other less known concepts and tools.
+
+    - role: Senior Full Stack Developer
+      time: Jul 2017 - Sep 2018
+      company: Pipedrive, Tallinn, Estonia
+      details: |
+        Technologies:
+        JavaScript, React, Flow, PHP, Node.js, PostgreSQL, styled-components
+
+        Responsibilities:
+        Developed front-end services from scratch, organized refactoring for legacy parts of the application.
+        Applied front-end optimization approaches and modern techniques on styling.
+        Worked with PHP and Node.js on the back-end side. Solved tasks with different complexity levels and Implemented data migration module
+
+    - role: Front End Developer
+      time: Apr 2016 - Jul 2017
+      company: Brightgrove, Kharkov, Ukraine
+      details: |
+        Technologies:
+        JavaScript, React, AngularJS, Dart, TypeScript, React Native
+
+        Responsibilities:
+        Analyzed and prepared front-end application for refactoring/redesign to SPA with React and Redux.
+        Designed new application architecture, solved implementation tasks. Created test plan and organized testing process
+        (unit and integration tests). Developed mobile version of the application with AWD technic.
+        Developed large front-end applciation with Angular 2 and Dart
+
+    - role: Software Engineer
+      time: Sep 2014 - Apr 2016
+      company: EPAM Systems, Kharkov, Ukraine
+      details: |
+        Technologies:
+        JavaScript, Node.js, Angular, React, Ionic, JSP, jQuery, HTML, CSS
+
+        Responsibilities:
+        Worked on development of two large e-commerce projects and few SPA and modules.
+        For e-commerce projects solved front-end tasks with different complexity level, fixed bugs. Organized efficiently
+        cross-team code review process. Helped with front-end developers hirings. Redesigned old angular based modules and
+        optimized front-end performance. Also designed and developed project for indoor navigation with Ionic, iBeacons,
+        and Node.js on back-end side. Introduced the application on knowledge sharing conference.
+
+    - role: QA Engineer
+      time: Nov 2013 - Aug 2014
+      company: G5 Entertainment AB, Kharkov, Ukraine
+      details: |
+        My responsibilities were organization of software testing process (mobile arcade and quests games),
+        analyzing products and reported bugs, track issues to improve applications, assist project manager with new features and
+        documenting testing process to achieved faster testing interations with short build validation cycle.
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: JS | TS | DART
+        level: 100%
+
+      - name: React ( Redux | Mobx )
+        level: 100%
+
+      - name: Node.js ( Koa | Express )
+        level: 90%
+
+      - name: GraphQL & REST
+        level: 90%
+
+      - name: Vue.js
+        level: 90%
+
+      - name: AWS
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
