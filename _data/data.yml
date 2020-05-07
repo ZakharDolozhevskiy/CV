@@ -37,10 +37,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I started work as Software engineer in 2014. Have professional experience in front-end and back-end development.
-      Also have solid knowledge of the most popular front-end frameworks and tools, familiar with Node.js and related framework like Express and Koa.
-      I've got strong background in software design and architecture, worked on team and tech leader role with team of 4-5 engineers and have good understanding of agile methodologies and software development processes.
-      I Like competitive programming and have good algorithms and data structure understanding.
+      I deal with software development from 2014. I have professional experience in front-end and back-end development.
+      I also have a solid knowledge of the most popular front-end frameworks and tools, familiar with Node.js and related frameworks like Express and Koa.
+      I've got a strong background in software design and architecture, worked on team at tech leader role with a team of 4-5 engineers,
+      and have a good understanding of agile methodologies and software development processes. I like competitive programming and have good algorithms and data structure understanding.
 
 
 educationcomplete:
@@ -62,23 +62,23 @@ experiences:
       company: SoftServe, Kharkiv Region, Ukraine
       details: |
         I've worked with two well-known companies during my employment. On both projects,
-        I've been involved as a team leader to organize the work process and support agile methodologies flow
+        I've been involved as a team leader to organize the work process and support agile methodologies flow.
         <br/>
         <br/>
         Each team was of 4-5 front-end or full-stack developers and as a tech leader, I provided code review, mentoring,
-        support, and help with problem-solving ( development and communication ).
-        <br/>  I also was involved in building POCs and writing documentation or RFCs of proposed solutions.
-        During my work, I met customers for work scope negotiation processes and took part in pre-sales.
+        support, and help with problem-solving (development and communication). I also was involved in building POCs and
+        writing documentation or RFCs of proposed solutions. I've go experience in work scope negotiation and pre-sales
+        processes during on-site client visits.
 
     - role: Software Engineer
       time: Sep 2018 - Jan 2019
       company: Microsoft, Tallinn, Estonia
       details: |
-        Worked in web media core team with the main focus on the web calling experience. Implemented reliable and
-        cross-platform solutions for video conferences, screen sharing, media streams transferring and also covered
-        integration part with other libraries and applications. My personal area of expertise and responsibility was
-        calls reliability and telemetry gathering ( stats of calls, experiments, other valuable data ).
-        We've used TypeScript, Python, ML, AI, WebRTC and other less known concepts and tools.
+        Worked in a web media core team with the main focus on the web calling experience. Implemented reliable and
+        cross-platform solutions for video conferences, screen sharing, media streams transferring, and also covered
+        integration part with other libraries and applications. My area of expertise and responsibility was
+        calls reliability and telemetry gathering (stats of calls, experiments, other valuable data).
+        We've used TypeScript, Python, ML, AI, WebRTC, and other less known concepts and tools.
 
     - role: Senior Full Stack Developer
       time: Jul 2017 - Sep 2018
@@ -101,9 +101,9 @@ experiences:
 
         Responsibilities:
         Analyzed and prepared front-end application for refactoring/redesign to SPA with React and Redux.
-        Designed new application architecture, solved implementation tasks. Created test plan and organized testing process
-        (unit and integration tests). Developed mobile version of the application with AWD technic.
-        Developed large front-end applciation with Angular 2 and Dart
+        Designed new application architecture, solved implementation tasks. Created a test plan and organized the testing process
+        (unit and integration tests). The developed mobile version of the application with AWD technic.
+        Developed a large front-end application with Angular 2 and Dart
 
     - role: Software Engineer
       time: Sep 2014 - Apr 2016
@@ -113,19 +113,19 @@ experiences:
         JavaScript, Node.js, Angular, React, Ionic, JSP, jQuery, HTML, CSS
 
         Responsibilities:
-        Worked on development of two large e-commerce projects and few SPA and modules.
-        For e-commerce projects solved front-end tasks with different complexity level, fixed bugs. Organized efficiently
-        cross-team code review process. Helped with front-end developers hirings. Redesigned old angular based modules and
-        optimized front-end performance. Also designed and developed project for indoor navigation with Ionic, iBeacons,
-        and Node.js on back-end side. Introduced the application on knowledge sharing conference.
+        Worked on the development of two large e-commerce projects and a few SPA and modules.
+        For e-commerce projects solved front-end tasks with different complexity levels, fixed bugs. Organized efficiently
+        cross-team code review process. Helped with front-end developers' hirings. Redesigned old angular based modules and
+        optimized front-end performance. I also designed and developed a project for indoor navigation with Ionic, iBeacons,
+        and Node.js on the back-end side. Introduced the application to a knowledge-sharing conference.
 
     - role: QA Engineer
       time: Nov 2013 - Aug 2014
       company: G5 Entertainment AB, Kharkov, Ukraine
       details: |
-        My responsibilities were organization of software testing process (mobile arcade and quests games),
+        My responsibilities were organizing of the software testing process (mobile arcade and quests games),
         analyzing products and reported bugs, track issues to improve applications, assist project manager with new features and
-        documenting testing process to achieved faster testing interations with short build validation cycle.
+        documenting the testing process to achieve faster testing interactions with short build validation cycle.
 
 skills:
     title: Skills &amp; Proficiency
